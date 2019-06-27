@@ -2,10 +2,10 @@
 
 ``` bash
 # Download repository:
-git clone repo-name
+git clone https://github.com/eltexsoft/webpack-starter.git
 
 # Go to the app:
-cd repo-name
+cd webpack-starter
 
 # Install dependencies:
 yarn install
